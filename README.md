@@ -1,4 +1,4 @@
-# Java Binary Search Tree Visualizer
+# Binary Search Tree Visualizer
 
 ## Overview
 
